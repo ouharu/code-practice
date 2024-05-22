@@ -48,4 +48,4 @@
 
 Python，Javascript/Typescript, go，Java, Swift/Kotlin/Dart(Flutter)
 
-# 
+# 不要逆着本性去做事
